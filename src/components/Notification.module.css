@@ -1,0 +1,15 @@
+.message{
+    margin: auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.notification{
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 500;
+    color: darkred;
+}
